@@ -1,21 +1,34 @@
-Cas Awa avec budget 50000 :
-> node .\depenses.js
-Rapport de dépenses de Awa
-Budget : 50000 FCFA
-Transport : 12500 FCFA
-Alimentation : 18300 FCFA
-Loisirs : 7500 FCFA
-Total des dépenses : 38300 FCFA
-Budget restant : 11700 FCFA
-Budget respecté : true
+Partie 1
 
-Variation budget 30000 :
-> node .\depenses.js
-Rapport de dépenses de Awa
-Budget : 30000 FCFA
-Transport : 12500 FCFA
-Alimentation : 18300 FCFA
-Loisirs : 7500 FCFA
-Total des dépenses : 38300 FCFA
-Budget restant : -8300 FCFA
-Budget respecté : false
+Âge : 11 ans -> Billet : 1500 FCFA
+Âge : 12 ans -> Billet : 1500 FCFA
+Âge : 13 ans -> Billet : 1500 FCFA
+Âge : 14 ans -> Billet : 1500 FCFA
+Âge : 15 ans -> Billet : 1500 FCFA
+Âge : 16 ans -> Billet : 2500 FCFA
+Âge : 17 ans -> Billet : 2500 FCFA
+Âge : 18 ans -> Billet : 2500 FCFA
+Âge : 19 ans -> Billet : 2500 FCFA
+Âge : 20 ans -> Billet : 2500 FCFA
+-----------------------------
+Recette totale : 20000 FCFA
+Billets à 1 500 FCFA : 5
+Billets à 2 500 FCFA : 5
+
+Partie 2 
+
+Âge : 11 ans -> Billet : 1500 FCFA
+Âge : 12 ans -> Billet : 1500 FCFA
+Âge : 13 ans -> Billet : 1500 FCFA
+Âge : 14 ans -> Billet : 1500 FCFA
+Âge : 15 ans -> Billet : 1500 FCFA
+Âge : 16 ans -> Billet : 2500 FCFA
+Âge : 17 ans -> Billet : 2500 FCFA
+Âge : 18 ans -> Billet : 2000 FCFA
+Âge : 19 ans -> Billet : 2000 FCFA
+Âge : 20 ans -> Billet : 2000 FCFA
+-----------------------------
+Recette totale : 18500 FCFA
+Billets à 1500 FCFA : 5
+Billets à 2500 FCFA : 2
+Billets à 2000 FCFA : 3
